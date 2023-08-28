@@ -1,5 +1,7 @@
 This is a repo for my small learning projects/tasks
 
+1. Baby Names Analysis - https://github.com/DataSamuraii/Learning/tree/master/google-python-exercises/babynames
+
 ---
 # Baby Names Analysis
 
